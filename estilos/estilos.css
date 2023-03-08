@@ -1,4 +1,10 @@
 body
 {text-align: center;
 font-family: 'Courier New', Courier, monospace;}
+<<<<<<< HEAD
 /* reportar cambio de css en el head*/
+=======
+footer{
+    font-family: 'Courier New', Courier, monospace;
+}
+>>>>>>> footer
